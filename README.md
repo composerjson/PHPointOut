@@ -226,7 +226,7 @@
         - Data hiding
         - Data abstraction
 
-   [Encapsulation]{https://softcodeon.com/wp-content/uploads/2021/02/Encapsulation-in-PHP-1.jpg}
+   [Encapsulation](https://softcodeon.com/wp-content/uploads/2021/02/Encapsulation-in-PHP-1.jpg)
     <p align="center"><a href="https://softcodeon.com/wp-content/uploads/2021/02/Encapsulation-in-PHP-1.jpg" target="_blank"><img src="https://softcodeon.com/wp-content/uploads/2021/02/Encapsulation-in-PHP-1.jpg" width="400" alt="Inheritance"></a></p>
 
 
